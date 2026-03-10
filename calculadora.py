@@ -14,12 +14,3 @@ if operacao == '/':
 
 if operacao == '*':
     print(number_1 * number_2) 
- 
- 
- 
- 
- 
- 
- 
- 
- 
